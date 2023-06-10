@@ -1,0 +1,56 @@
+/* Main table css start */
+#table {
+    width:100%;
+    background-color:rgb(245, 169, 77);
+    height:120px;
+    
+}
+.index{
+color:white;
+    font-size:20px;
+}
+#logo{
+   width:300px;
+   height: 95px;
+   padding-left: 40px;
+   padding-top: 5px;
+}
+/* Main table ki css complete */
+.tigerlogo{
+    width:200x;
+    text-align:center;
+    height:200x;
+}
+.park{
+    font-size:80px;
+    text-align:center;
+    color:black;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Safaritable {
+        width:50%;
+        background-color:#90baf1;
+        margin:auto;
+}
+
+h1 {
+        color:white;
+        text-align:center;
+        font-size:40px;
+}
+lable{
+    color:white;
+    width:50%;
+    font-size:25px;
+}
+.large{
+    width:95%;
+    font-size:25px;
+    padding-left:20px;
+}
+ #submit{
+    text-align:center;
+    font-size:30px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
